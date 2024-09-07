@@ -2,6 +2,7 @@
  FIAP - Faculdade de Informática e Administração Paulista
 
  Curso: Software Engineering
+ 
  Data Science & Statistical Computing
 
  Checkpoint 1
