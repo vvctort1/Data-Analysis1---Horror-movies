@@ -15,3 +15,5 @@
 
 
 Análise de dados do <a href="https://www.kaggle.com/datasets/evangower/horror-movies">Dataset Horror Movies</a>
+
+Neste projeto, selecionamos alguns questionamentos que fizemos à respeito de filmes do gênero de terror e, à partir dessas perguntas, tentamos responder com base em análise de dados de um dataset encontrado no site ***Kaggle***.
